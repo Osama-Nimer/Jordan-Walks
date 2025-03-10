@@ -1,0 +1,6 @@
+@Jordan_Walks.API_HostAddress = http://localhost:5174
+
+GET {{Jordan_Walks.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
