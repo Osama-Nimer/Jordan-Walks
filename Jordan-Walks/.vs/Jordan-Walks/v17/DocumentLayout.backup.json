@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Migrations\\20250311185902_test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Jordan-Walks.API\\Migrations\\20250311185902_test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EFF58FE0-ED22-4181-A7C6-478E59890E55}|Jordan-Walks.API\\Jordan-Walks.API.csproj|c:\\users\\asus\\documents\\fullstack\\udemy\\jordan-walks\\jordan-walks\\jordan-walks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EFF58FE0-ED22-4181-A7C6-478E59890E55}|Jordan-Walks.API\\Jordan-Walks.API.csproj|solutionrelative:jordan-walks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Migrations\\20250311185803_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Jordan-Walks.API\\Migrations\\20250311185803_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF58FE0-ED22-4181-A7C6-478E59890E55}|Jordan-Walks.API\\Jordan-Walks.API.csproj|c:\\users\\asus\\documents\\fullstack\\udemy\\jordan-walks\\jordan-walks\\jordan-walks.api\\jordan-walks.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EFF58FE0-ED22-4181-A7C6-478E59890E55}|Jordan-Walks.API\\Jordan-Walks.API.csproj|solutionrelative:jordan-walks.api\\jordan-walks.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF58FE0-ED22-4181-A7C6-478E59890E55}|Jordan-Walks.API\\Jordan-Walks.API.csproj|c:\\users\\asus\\documents\\fullstack\\udemy\\jordan-walks\\jordan-walks\\jordan-walks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF58FE0-ED22-4181-A7C6-478E59890E55}|Jordan-Walks.API\\Jordan-Walks.API.csproj|solutionrelative:jordan-walks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Migrations\\20250311185352_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Jordan-Walks.API\\Migrations\\20250311185352_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF58FE0-ED22-4181-A7C6-478E59890E55}|Jordan-Walks.API\\Jordan-Walks.API.csproj|c:\\users\\asus\\documents\\fullstack\\udemy\\jordan-walks\\jordan-walks\\jordan-walks.api\\data\\jodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF58FE0-ED22-4181-A7C6-478E59890E55}|Jordan-Walks.API\\Jordan-Walks.API.csproj|solutionrelative:jordan-walks.api\\data\\jodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFF58FE0-ED22-4181-A7C6-478E59890E55}|Jordan-Walks.API\\Jordan-Walks.API.csproj|c:\\users\\asus\\documents\\fullstack\\udemy\\jordan-walks\\jordan-walks\\jordan-walks.api\\jordan-walks.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -35,14 +59,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Jordan-Walks.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\appsettings.json",
-              "RelativeToolTip": "Jordan-Walks.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-10T19:09:32.697Z",
+              "Title": "20250311185902_test3.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Migrations\\20250311185902_test3.cs",
+              "RelativeDocumentMoniker": "Jordan-Walks.API\\Migrations\\20250311185902_test3.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Migrations\\20250311185902_test3.cs",
+              "RelativeToolTip": "Jordan-Walks.API\\Migrations\\20250311185902_test3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:59:02.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250311185803_test2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Migrations\\20250311185803_test2.cs",
+              "RelativeDocumentMoniker": "Jordan-Walks.API\\Migrations\\20250311185803_test2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Migrations\\20250311185803_test2.cs",
+              "RelativeToolTip": "Jordan-Walks.API\\Migrations\\20250311185803_test2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:58:03.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jordan-Walks.API.http",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Jordan-Walks.API.http",
+              "RelativeDocumentMoniker": "Jordan-Walks.API\\Jordan-Walks.API.http",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Jordan-Walks.API.http",
+              "RelativeToolTip": "Jordan-Walks.API\\Jordan-Walks.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-11T18:55:12.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250311185352_test.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Migrations\\20250311185352_test.cs",
+              "RelativeDocumentMoniker": "Jordan-Walks.API\\Migrations\\20250311185352_test.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Migrations\\20250311185352_test.cs",
+              "RelativeToolTip": "Jordan-Walks.API\\Migrations\\20250311185352_test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:53:52.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Program.cs",
+              "RelativeDocumentMoniker": "Jordan-Walks.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Program.cs",
+              "RelativeToolTip": "Jordan-Walks.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:39:26.157Z",
               "EditorCaption": ""
             },
             {
@@ -67,8 +143,34 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Data\\JoDbContext.cs",
+              "RelativeDocumentMoniker": "Jordan-Walks.API\\Data\\JoDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Data\\JoDbContext.cs",
+              "RelativeToolTip": "Jordan-Walks.API\\Data\\JoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:31:22.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Jordan-Walks.API",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Jordan-Walks.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\appsettings.json",
+              "RelativeToolTip": "Jordan-Walks.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T19:09:32.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Jordan-Walks.API.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Jordan-Walks.API.csproj",
               "RelativeDocumentMoniker": "Jordan-Walks.API\\Jordan-Walks.API.csproj",
               "ToolTip": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Jordan-Walks.API.csproj",
@@ -80,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Walks.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Models\\Domain\\Walks.cs",
               "RelativeDocumentMoniker": "Jordan-Walks.API\\Models\\Domain\\Walks.cs",
@@ -93,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Rejon.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Models\\Domain\\Rejon.cs",
               "RelativeDocumentMoniker": "Jordan-Walks.API\\Models\\Domain\\Rejon.cs",
@@ -106,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Difficulty.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\FullStack\\Udemy\\Jordan-Walks\\Jordan-Walks\\Jordan-Walks.API\\Models\\Domain\\Difficulty.cs",
               "RelativeDocumentMoniker": "Jordan-Walks.API\\Models\\Domain\\Difficulty.cs",
